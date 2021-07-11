@@ -5804,13 +5804,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"isarray@npm:0.0.1":
-  version: 0.0.1
-  resolution: "isarray@npm:0.0.1"
-  checksum: daeda3c23646200b0b464b7a9030d10008d7701fc6b7a1b45cafe42b4f4d2dde20835b56f19a49e04bb218245b7f7a2bcc6d0f696cff3711e4eddaa2031c611f
-  languageName: node
-  linkType: hard
-
 "isarray@npm:1.0.0, isarray@npm:~1.0.0":
   version: 1.0.0
   resolution: "isarray@npm:1.0.0"
@@ -7720,12 +7713,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"path-to-regexp@npm:^1.7.0":
-  version: 1.7.0
-  resolution: "path-to-regexp@npm:1.7.0"
-  dependencies:
-    isarray: 0.0.1
-  checksum: 96abca39f0f26c47f388bdb2a5604876547bc136428db6761a99d031abf5d0f5981c3cb9842108bc337f8c66016b22660027f8144a1a737e20a5a8d1b8e98c8b
+"path-to-regexp@npm:^6.0.0":
+  version: 6.2.0
+  resolution: "path-to-regexp@npm:6.2.0"
+  checksum: 4116de71f5453163910347f199ab28fdd07f4053ed88093acb42dc044a2e5e7d9e18379e81e8d5d982d1b88291be3666e56be34a0741298673248fd21e3c1c16
   languageName: node
   linkType: hard
 
@@ -8494,7 +8485,7 @@ __metadata:
     husky: 4.3.8
     jest: 26.6.3
     nightingale-logger: ^11.0.0
-    path-to-regexp: ^1.7.0
+    path-to-regexp: ^6.0.0
     pob-babel: 26.8.0
     pob-lcov-reporter: 4.0.1
     prettier: 2.2.1
